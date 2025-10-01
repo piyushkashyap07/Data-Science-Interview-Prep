@@ -722,5 +722,5 @@ class SlottedClass:
 
 ---
 
-**Next:** [Day 02](../Day-02/README.md)
+**Next:** [Day 02 - NumPy](../Day-02-NumPy/README.md)
 

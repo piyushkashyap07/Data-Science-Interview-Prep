@@ -505,4 +505,4 @@ print("Modern RNG:", rng.random(5))
 
 ---
 
-**Previous:** [Day 01](../Day-01/README.md) | **Next:** [Day 03](../Day-03/README.md)
+**Previous:** [Day 01 - Python](../Day-01-Python/README.md) | **Next:** [Day 03 - Pandas](../Day-03-Pandas/README.md)

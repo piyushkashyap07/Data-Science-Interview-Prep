@@ -42,25 +42,25 @@ The goal of this series is to help learners and job seekers:
 ## 📂 Repository Structure
 
 ```
-📘 40-Days-DS-Interview-Questions/
+📘 Data-Science-Interview-Prep/
 │
-├── README.md              # This file
+├── README.md                    # This file
 │
-├── Day-01/               # ✅ Python Core Concepts (Complete)
-│   └── README.md         # 10 questions with detailed answers
+├── Day-01-Python/              # ✅ Python Core Concepts (Complete)
+│   └── README.md               # 10 questions with detailed answers
 │
-├── Day-02/               # ✅ NumPy Fundamentals (Complete)
-│   └── README.md         # 10 questions with code examples
+├── Day-02-NumPy/               # ✅ NumPy Fundamentals (Complete)
+│   └── README.md               # 10 questions with code examples
 │
-├── Day-03/               # ✅ Pandas Interview Questions (Complete)
-│   └── README.md         # 10 questions with solutions
+├── Day-03-Pandas/              # ✅ Pandas Interview Questions (Complete)
+│   └── README.md               # 10 questions with solutions
 │
-├── Day-04/               # 📝 Ready for content
+├── Day-04/                     # 📝 Ready for content
 │   └── README.md
 │
-├── ...                   # Days 5-39
+├── ...                         # Days 5-39
 │
-└── Day-40/               # 📝 Ready for content
+└── Day-40/                     # 📝 Ready for content
     └── README.md
 ```
 
@@ -101,12 +101,12 @@ Each completed day includes:
 
 1. **Clone or download the repository:**
    ```bash
-   git clone https://github.com/yourusername/40-days-ds-interview-questions.git
-   cd 40-days-ds-interview-questions
+   git clone https://github.com/piyushkashyap07/Data-Science-Interview-Prep.git
+   cd Data-Science-Interview-Prep
    ```
 
 2. **Follow the 40-day challenge:**
-   - Start with [Day-01](Day-01/README.md)
+   - Start with [Day-01-Python](Day-01-Python/README.md)
    - Read each question carefully
    - Try to answer before looking at the solution
    - Run the code examples and experiment
@@ -155,7 +155,7 @@ Track your journey through the 40 days:
 
 ### Week 1: Python & Data Foundations
 
-- **[Day 01: Python Core Concepts](Day-01/README.md)** ✅
+- **[Day 01: Python Core Concepts](Day-01-Python/README.md)** ✅
   - Mutable vs Immutable Objects
   - Memory Management
   - `is` vs `==` Operators
@@ -167,7 +167,7 @@ Track your journey through the 40 days:
   - List Comprehension vs For Loop
   - Object References & Garbage Collection
 
-- **[Day 02: NumPy Fundamentals](Day-02/README.md)** ✅
+- **[Day 02: NumPy Fundamentals](Day-02-NumPy/README.md)** ✅
   - NumPy Array vs Python List
   - Performance Advantages
   - Broadcasting
@@ -179,7 +179,7 @@ Track your journey through the 40 days:
   - Vectorization Benefits
   - Random Number Generation
 
-- **[Day 03: Pandas Mastery](Day-03/README.md)** ✅
+- **[Day 03: Pandas Mastery](Day-03-Pandas/README.md)** ✅
   - Vectorization vs Apply/Lambda
   - Indexing Methods (.loc, .iloc, .at, .iat)
   - Multi-Indexing
@@ -305,7 +305,7 @@ This project is open source and available for educational purposes. Feel free to
 
 Ready to begin your 40-day journey?
 
-👉 **[Start with Day 01: Python Core Concepts](Day-01/README.md)**
+👉 **[Start with Day 01: Python Core Concepts](Day-01-Python/README.md)**
 
 ---
 
