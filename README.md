@@ -7,7 +7,7 @@
 
 Welcome to the **40 Days of Data Science Interview Questions** series! This comprehensive collection is designed to help aspiring data scientists prepare for technical interviews through daily practice.
 
-**Created by:** Revanth Naidu and Team
+**Created by:** [Revanth Naidu](https://www.linkedin.com/in/revanth-polthi-5b2857218/) and Team
 
 ---
 
@@ -229,10 +229,7 @@ We welcome contributions! You can help by:
 
 ## 👥 Contributors
 
-- **Revanth Naidu** - Creator and Main Contributor
-- **Community Contributors** - Thank you for your contributions!
-
-Want to see your name here? Contribute to the project!
+- **[Revanth Naidu](https://www.linkedin.com/in/revanth-polthi-5b2857218/)** - Creator and Main Contributor
 
 ---
 
