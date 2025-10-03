@@ -287,4 +287,4 @@ Color preference → One-hot encoding
 
 ---
 
-**Previous:** [Day 04](../Day-04/README.md) | **Next:** [Day 06](../Day-06/README.md)
+**Previous:** [Day 04 - SQL](../Day-04-SQL/README.md) | **Next:** [Day 06](../Day-06/README.md)

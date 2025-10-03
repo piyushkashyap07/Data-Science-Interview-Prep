@@ -617,4 +617,4 @@ df_loaded = pd.read_parquet('data.parquet')
 
 ---
 
-**Previous:** [Day 02 - NumPy](../Day-02-NumPy/README.md) | **Next:** [Day 04](../Day-04/README.md)
+**Previous:** [Day 02 - NumPy](../Day-02-NumPy/README.md) | **Next:** [Day 04 - SQL](../Day-04-SQL/README.md)

@@ -439,4 +439,4 @@ WHERE rank <= 3;
 
 ---
 
-**Previous:** [Day 03](../Day-03-Pandas/README.md) | **Next:** [Day 05](../Day-05/README.md)
+**Previous:** [Day 03 - Pandas](../Day-03-Pandas/README.md) | **Next:** [Day 05 - Machine Learning](../Day-05-Machine-Learning/README.md)
